@@ -1,0 +1,30 @@
+table {
+    letter-spacing: 1.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: black solid 1.5px;
+    text-align: center;
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+}
+
+th {
+    border-bottom: rgb(231, 129, 34) solid 1px;
+    border-right: rgb(231, 129, 34) solid 1px;
+    background-color: rgb(230, 189, 136);
+}
+
+td {
+    border-bottom: black solid 1px;
+    border-right: black solid 1px; 
+}
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
